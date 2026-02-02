@@ -15,6 +15,7 @@ docker compose build
 
 
 ## Run the Docker 
+```
 docker compose up
-
 docker compose run --rm -it oscar bash
+```
